@@ -1,4 +1,4 @@
-# KPI Monitoring Dashboard
+# Key Metrics Dashboard
 ![image](https://github.com/joelmsherman/Key-Metrics-Dashboard/blob/master/readme_image.png)
 
 ## Background
