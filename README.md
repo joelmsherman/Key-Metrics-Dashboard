@@ -1,5 +1,5 @@
 # KPI Monitoring Dashboard
-![image]()
+![image](https://github.com/joelmsherman/Key-Metrics-Dashboard/blob/master/readme_image.png)
 
 ## Background
 Premier Paint Llc is a leader in quality paint manufacturing in the Pacific Northwest with a growing market share of North American paint sales.  Company executives rely on timely and accurate information from finance personnel, sales managers and manufacturing staff in order to assess company financials and key performance indicators.  However, data is siloed and integrated and prepared manually by company staff, making data less useful than it could be.
